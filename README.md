@@ -1,7 +1,9 @@
-# Discord-DDoS-Bot
-For this to function properly, you **MUST** edit the API URLs, API KEYs, and also enter your Bot-Token.
+# WhackDDOS 🔨
+WhackDDOS is a Discord Bot which Interacts with DDOS API's
 
-# About
+# About 🛠
+*For this to function properly, you **MUST** edit the API URLs, API KEYs, and also enter your Bot-Token.*
+
 **This bot will allow you to:**
 
     List different attack methods, which can be used with your API's.
@@ -20,7 +22,7 @@ For this to function properly, you **MUST** edit the API URLs, API KEYs, and als
  
  *Lists can be changed manually in the* ***main.py*** *file.* *(you will need to do this for the Owner Role.)*
 
-# Program
+# Program ⚒
 Your Bot Interface will look like this on startup:
 
 ![image](https://user-images.githubusercontent.com/75194878/113492414-136d3f80-94cf-11eb-8506-0889e67d6f27.png)
@@ -43,7 +45,9 @@ This is how your discord will look when you use the commands:
   
   ![image](https://user-images.githubusercontent.com/75194878/113492829-6dbbcf80-94d2-11eb-99cd-e31336dcbcbb.png)
 
+# Final Notes 📝
 This is only a PoC, Please do not use this for any illegal matters!
+Also, please credit me if you fork/change the code, Thanks! �😘
 
 
 
