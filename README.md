@@ -47,7 +47,7 @@ This is how your discord will look when you use the commands:
 
 # Final Notes 📝
 This is only a PoC, Please do not use this for any illegal matters!
-Also, please credit me if you fork/change the code, Thanks! �😘
+Also, please credit me if you fork/change the code, Thanks! 😘
 
 
 
