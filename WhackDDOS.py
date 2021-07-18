@@ -36,7 +36,7 @@ api_data = [
     }
 ]
 
-#h4x0r pogger cool swag st4tuz! (rotating status, you can remove this if you please.)
+#h4x0r pogger cool swag st4tuz! (rotating status, you can (remove / change) this if you please.)
 async def status_task():
     while True:
         await bot.change_presence(activity=discord.Game(name="Whackin' Kidz /"))
